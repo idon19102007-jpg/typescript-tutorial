@@ -44,3 +44,4 @@ tup[0] = 'ken';
 let student: [string, number];
 //student = [23564, 'chun-li'];
 student = ['chun-li', 23564];
+console.log(student);
